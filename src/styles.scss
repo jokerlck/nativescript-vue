@@ -1,0 +1,35 @@
+// NativeScript core theme
+// @see https://docs.nativescript.org/ui/theme
+@import '~nativescript-theme-core/scss/skins/dark/index';
+@import '~nativescript-theme-core/scss/index';
+
+// Global SCSS styling
+// @see https://docs.nativescript.org/ui/styling
+
+.btn{
+    width: 600px;
+    height: 100px;
+    padding: 25px;
+    font-size: 25px;
+    border-radius: 5px;
+    margin: 10px;
+    background-color: #BDBDBD;
+    color: #000;
+}
+
+.btn-success{
+    background-color: #43b883;
+    color: #fff;
+}
+
+.btn-reverse-success{
+    background-color: transparent;
+    border-color: #43b883;
+    border-width: 1;
+    color: #43b883;
+}
+
+.center{
+    margin-left: auto;
+    margin-right: auto;
+}

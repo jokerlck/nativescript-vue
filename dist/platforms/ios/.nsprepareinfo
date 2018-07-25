@@ -1,0 +1,16 @@
+{
+	"time": "Wed Jul 25 2018 10:47:09 GMT+0800 (Hong Kong Standard Time)",
+	"nativePlatformStatus": "3",
+	"bundle": false,
+	"release": false,
+	"changesRequireBuild": false,
+	"projectFileHash": "f0607e5cfe6969b698598383a514f1ee3c6e569db85e8259a23f6ce0dfa9ca27",
+	"changesRequireBuildTime": "Tue Jul 24 2018 15:33:45 GMT+0800 (Hong Kong Standard Time)",
+	"appFilesHashes": {
+		"/Users/lungc4/Desktop/VueNative/dist/app/.DS_Store": "7a5b123e38bceeaf2fc3a7a0361cce8b98139ea2",
+		"/Users/lungc4/Desktop/VueNative/dist/app/app.ios.css": "7234ad29ab92bac4360c9832724096c14f99fed7",
+		"/Users/lungc4/Desktop/VueNative/dist/app/images/NativeScript-Vue.png": "31f09bdba72293198ee2e2a83c4fe5aa5744bc3d",
+		"/Users/lungc4/Desktop/VueNative/dist/app/package.json": "f6ff3e5df8a234ae342d6b575ed7748808a46dff",
+		"/Users/lungc4/Desktop/VueNative/dist/app/app.ios.js": "251866d21de9d5557a9078222f566f1417e5d368"
+	}
+}
